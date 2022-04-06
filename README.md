@@ -20,9 +20,8 @@ b. 滑鼠連接 DN72
 c. 開啟開發人員選項  
     Android設定 > 關於手機 > 版本號碼 => 點擊 7 下  
     Android設定 > 開發人員選項 > USB偵錯 => 開啟  
-  
 d. 在 DN72 開啟 USB 連線   
-		Android設定 > USB > 勾選 Connect to PC   
+    Android設定 > USB > 勾選 Connect to PC   
 點擊 USB_install_wow_2_0.bat  
 成功圖示：  
 ![圖1-2](success.png)  
@@ -30,13 +29,13 @@ d. 在 DN72 開啟 USB 連線
 裝置將自動重啟並開啟 WOW APP 2.0  
   
 4. bat 執行錯誤處理  
-a. 找不到裝置、裝置無法連線、裝置offline  
-  i. 重新連接 OTG 線 (3 - a)  
-  ii. 確認開發人員選項開啟 (3 - c)  
-  iii. 確認裝置USB 連線已開啟 (3 - d)  
-b. 找不到 WOW_signed.apk 檔案  
-  i.確認資料夾結構如 圖1-1  
-c. Permission Deny  
-  i.確認 adb tools 版本 (2-c)  
+	a. 找不到裝置、裝置無法連線、裝置offline  
+	  i. 重新連接 OTG 線 (3 - a)  
+	  ii. 確認開發人員選項開啟 (3 - c)  
+	  iii. 確認裝置USB 連線已開啟 (3 - d)  
+	b. 找不到 WOW_signed.apk 檔案  
+	  i.確認資料夾結構如 圖1-1  
+	c. Permission Deny  
+	  i.確認 adb tools 版本 (2-c)  
   
   
