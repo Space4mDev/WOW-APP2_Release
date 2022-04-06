@@ -22,7 +22,7 @@ c. 開啟開發人員選項
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android設定 > 開發人員選項 > USB偵錯 => 開啟  
 d. 在 DN72 開啟 USB 連線   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android設定 > USB > 勾選 Connect to PC   
-點擊 USB_install_wow_2_0.bat  
+e. 點擊 USB_install_wow_2_0.bat  
 成功圖示：  
 ![圖1-2](success.png)  
   
