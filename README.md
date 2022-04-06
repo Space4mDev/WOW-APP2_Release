@@ -30,12 +30,12 @@ d. 在 DN72 開啟 USB 連線
   
 4. bat 執行錯誤處理  
 	a. 找不到裝置、裝置無法連線、裝置offline  
-	  i. 重新連接 OTG 線 (3 - a)  
-	  ii. 確認開發人員選項開啟 (3 - c)  
-	  iii. 確認裝置USB 連線已開啟 (3 - d)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. 重新連接 OTG 線 (3 - a)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. 確認開發人員選項開啟 (3 - c)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. 確認裝置USB 連線已開啟 (3 - d)  
 	b. 找不到 WOW_signed.apk 檔案  
-	  i.確認資料夾結構如 圖1-1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.確認資料夾結構如 圖1-1  
 	c. Permission Deny  
-	  i.確認 adb tools 版本 (2-c)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.確認 adb tools 版本 (2-c)  
   
   
