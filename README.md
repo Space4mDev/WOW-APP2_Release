@@ -18,10 +18,10 @@ d. "platform-tools" 資料夾與 "USB_install_wow_2_0" 資料夾放到 "WOWInsta
 a. 用 OTG 線 將 DN72 與電腦連接  
 b. 滑鼠連接 DN72  
 c. 開啟開發人員選項  
-    Android設定 > 關於手機 > 版本號碼 => 點擊 7 下  
-    Android設定 > 開發人員選項 > USB偵錯 => 開啟  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android設定 > 關於手機 > 版本號碼 => 點擊 7 下  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android設定 > 開發人員選項 > USB偵錯 => 開啟  
 d. 在 DN72 開啟 USB 連線   
-    Android設定 > USB > 勾選 Connect to PC   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android設定 > USB > 勾選 Connect to PC   
 點擊 USB_install_wow_2_0.bat  
 成功圖示：  
 ![圖1-2](success.png)  
