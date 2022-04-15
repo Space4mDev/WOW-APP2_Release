@@ -36,6 +36,6 @@ e. 點擊 .bat 檔案
 	b. 找不到 WOW_signed.apk 檔案  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.確認資料夾結構如 圖1-1  
 	c. Permission Deny  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.確認 adb tools 版本 (2-c)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.確認 adb tools 版本 (adb --version) 確認版本為 Android Debug Bridge version 1.0.41   
   
   
