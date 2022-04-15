@@ -10,9 +10,8 @@
 2. 軟體準備  
 a. USB_install_wow_2_0.bat 請依據不同裝置取得不同安裝執行檔來執行操作  
 以下步驟可依據自己手上的 .bat 檔做修改  
-b. [WOW_signed.apk](https://github.com/Space4mDev/WOW_APP2_Release) 與 .bat 放在同一資料夾(USB_install_wow_2_0)內  
-c. 下載 adb tools ([參閱](https://hi-upchen.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-win10-%E5%AE%89%E8%A3%9D-android-adb%E5%B7%A5%E5%85%B7-8546cb0b81ce)) => 得到 platform-tools 資料夾，輸入 adb --version 確認 adb 版本  
-d. 請依據 .bat 檔案放置 "platform-tools" 資料夾與 "USB_install_wow_2_0" 資料夾  
+b. [WOW_signed.apk](https://github.com/Space4mDev/WOW_APP2_Release) 與 .bat 放在同一資料夾內  
+d. 請依據 "安裝裝置" 選擇 檔案放置位置 USB_install_wow_2_0 或是 WiFi_install_wow_2_0 資料夾內    
 ![圖1-1](folderstructure.png)  
   
 3. 安裝流程  
